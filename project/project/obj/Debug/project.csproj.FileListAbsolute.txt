@@ -1,0 +1,14 @@
+C:\personalProjectC#\TuanProject\project\project\bin\Debug\Database1.mdf
+C:\personalProjectC#\TuanProject\project\project\bin\Debug\Database1_log.ldf
+C:\personalProjectC#\TuanProject\project\project\bin\Debug\project.exe.config
+C:\personalProjectC#\TuanProject\project\project\bin\Debug\project.exe
+C:\personalProjectC#\TuanProject\project\project\bin\Debug\project.pdb
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.frm_cafe.resources
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.frm_homepage.resources
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.Properties.Resources.resources
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.csproj.GenerateResource.cache
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.exe
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.pdb
+C:\personalProjectC#\TuanProject\project\project\obj\Debug\project.frm_dangnhap.resources
